@@ -224,7 +224,8 @@ Shop currency: 995
 9774 // Herblore cape
 9771 // Agility cape
 9777 // Thieving cape
-9786 // Slayer cape
+9786 // 
+cape
 9810 // Farming cape
 9765 // Runecraft cape
 9948 // Hunter cape
@@ -1141,9 +1142,11 @@ Shop currency: Points
 7789 100 // slayer tome(50k)
 7790 150 // slayer tome (100k)
 22315 5000 //infernal stone
-1763 25 // Red Dye
-1771 25 // Green Dye
-16067 25 // purple dye
+13226 750 // Herb sack
+12783 250 // Ring of wealth scroll
+12786 125 // Magic shortbow scroll
+4081 200 //Salve Amulet
+11866 75 //Slayer Ring
 419 5 //magic note papaer
 11864 300 // Slayer helmet.
 4170 75 // slayer staff
@@ -1154,16 +1157,14 @@ Shop currency: Points
 6609 2000 //chaotic maul
 9084 2000 //chaotic staff
 11165 2000 //chaotic crossbow
-
-11665 100 // Void melee helm.
-11664 100 // Void ranger helm.
-11663 100 // Void mage helm.
-8839 130 // Void knight top.
-8840 120 // Void knight robe bottom.
+11665 150 // Void melee helm.
+11664 150 // Void ranger helm.
+11663 150 // Void mage helm.
+8839 200 // Void knight top.
+8840 170 // Void knight robe bottom.
 8842 115 // Void knight gloves.
-13072 225 // Elite void top
-13073 225 // Elite void bottom
-
+13072 325 // Elite void top
+13073 325 // Elite void bottom
 
 Shop name: Runecrafting shop
 Shop id: 47
